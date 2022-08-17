@@ -85,15 +85,24 @@ Users can upload the data online to get the prediction results immediately or do
 
 For more case studies, please visit:
 
-​	http://47.93.42.104/A1
+​	http://47.93.42.104/A1 
+
 ​	http://47.93.42.104/A2
+
 ​	http://47.93.42.104/A3
+
 ​	http://47.93.42.104/A4
+
 ​	http://47.93.42.104/A5
+
 ​	http://47.93.42.104/A6
+
 ​	http://47.93.42.104/A7
+
 ​	http://47.93.42.104/A8
+
 ​	http://47.93.42.104/A9
+
 ​	http://47.93.42.104/A10
 
 ### Requirements
