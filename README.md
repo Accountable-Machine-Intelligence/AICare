@@ -43,10 +43,9 @@ To summarize:
 
 ### AI-Doctor Interaction Online System 
 
-Our health trajectory visualization system with anonymous case studies (patient ID from A1 to A20) is publicly available at http://47.93.42.104/A8. 
-Visualization of the importance of the features is available at http://47.93.42.104/statistics/one. 
-We release our code at https://github.com/Accountable-Machine-Intelligence/AICare.
-Users can upload the data online to get the prediction results immediately or download the code to train the model based on their dataset offline.
+Our developed health trajectory visualization system with anonymous case studies (patient ID from A1 to A20) is publicly available at \url{http://47.93.42.104/A8}. 
+Visualization of the importance of the features is available at \url{http://47.93.42.104/statistics/feature}. 
+Users can upload the data online to get the prediction results immediately \url{http://47.93.42.104/predict} or download the code to train the model based on their dataset offline.
 
 ### Implications
 
